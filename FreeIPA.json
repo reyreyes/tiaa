@@ -1,0 +1,9 @@
+{
+    "imageId": "1e8c4ec9-8aca-48fd-a636-d807f2689329",
+    "vmImages": [
+        {
+            "region": "us-west-2",
+            "imageReference": "ami-0044e0bfe081b5d6b"
+        }
+    ]
+}
