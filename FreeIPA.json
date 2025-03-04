@@ -1,9 +1,33 @@
 {
-    "imageId": "1e8c4ec9-8aca-48fd-a636-d807f2689329",
-    "vmImages": [
-        {
-            "region": "us-west-2",
-            "imageReference": "ami-0044e0bfe081b5d6b"
-        }
+  "images": {
+    "freeipa-images": [
+      {
+        "created": 0,
+        "date": "2025-03-04",
+        "description": "Official FreeIPA image",
+        "images": {
+          "aws": {
+            "us-west-2": "ami-0044e0bfe081b5d6b"
+          }
+        },
+        "os": "redhat8",
+        "os_type": "redhat8",
+        "uuid": "1e8c4ec9-8aca-48fd-a636-d807f2689329"
+      }
     ]
+  },
+  "versions": {
+    "freeipa": [
+      {
+        "images": [
+          "1e8c4ec9-8aca-48fd-a636-d807f2689329"
+        ],
+        "defaults": [],
+        "versions": [
+          "2.93.0-b131",
+          "2.94.0-b132"
+        ]
+      }
+    ]
+  }
 }
