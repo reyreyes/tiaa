@@ -7,7 +7,7 @@
         "description": "Official FreeIPA image",
         "images": {
           "aws": {
-            "us-west-2": "ami-0044e0bfe081b5d6b"
+            "us-west-2": "ami-0357effb8e02d43fc"
           }
         },
         "os": "redhat8",
