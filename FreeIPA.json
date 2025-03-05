@@ -64,12 +64,12 @@
 "description": "Custom FreeIPA image",
 "images": {
 "aws": {
-"us-west-2": "ami-0ce1c83f7d74cf560"
+"us-west-2": "ami-0357effb8e02d43fc"
 }
 },
-"os": "centos7",
-"os_type": "redhat7",
-"uuid": "f16455d9-a03c-4e07-b181-9e4b5d40f91e",
+"os": “redhat8“,
+"os_type": "redhat8”,
+"uuid": "bdb32438-d616-4a8d-969a-1c8480e8fb91",
 "package-versions": {
 "blackbox-exporter": "0.19.0",
 "cdp-logging-agent": "0.3.6",
