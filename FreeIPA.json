@@ -1,15 +1,15 @@
 {
-    "catalogName": "tiaa-freeipa",
-    "description": "TIAA FreeIPA custom catalog",
-    "images": [
-        {
-            "imageId": "7cecb2a9-716b-4e43-9107-a35b1d1ef6de",
-            "imageDate": 1741149653630,
-            "imageType": "FREEIPA",
-            "sourceImageId": "bdb32438-d616-4a8d-969a-1c8480e8fb91",
-            "sourceImageDate": 1722384652,
-            "versions": {},
-            "provider": "AWS"
-        }
-    ]
+  "catalogName": "tiaa-freeipa",
+  "description": "TIAA FreeIPA custom catalog",
+  "images": [
+    {
+      "imageId": "7cecb2a9-716b-4e43-9107-a35b1d1ef6de",
+      "imageDate": 1741149653630,
+      "imageType": "FREEIPA",
+      "sourceImageId": "bdb32438-d616-4a8d-969a-1c8480e8fb91",
+      "sourceImageDate": 1722384652,
+      "versions": {},
+      "provider": "AWS"
+    }
+  ]
 }
