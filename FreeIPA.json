@@ -31,11 +31,11 @@
 "us-east-1": "ami-0a8e2d7d34c44d339",
 "us-east-2": "ami-070beafaab3157b56",
 "us-west-1": "ami-0428ab0a12daa27e2",
-"us-west-2": "ami-00eee6b1d3c949c19"
+"us-west-2": "ami-0357effb8e02d43fc"
 }
 },
-"os": "centos7",
-"os_type": "redhat7",
+"os": "redhat8",
+"os_type": "redhat8",
 "uuid": "f4703cc8-2ba9-465e-9ec4-e230f5a28e37",
 "package-versions": {
 "blackbox-exporter": "0.19.0",
