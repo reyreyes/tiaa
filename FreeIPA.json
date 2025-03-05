@@ -1,9 +1,9 @@
 {
   "catalogName": "tiaa-freeipa",
-  "description": "TIAA FreeIPA custom catalog",
+  "description": "TIAA FreeIPA tiaa-approved-cdp-freeipa-dlz-prod-uw2",
   "images": [
     {
-      "imageId": "7cecb2a9-716b-4e43-9107-a35b1d1ef6de",
+      "imageId": "7c1d2da6-9a57-4e58-8a3e-d5f409d96cc2",
       "imageDate": 1741149653630,
       "imageType": "FREEIPA",
       "sourceImageId": "bdb32438-d616-4a8d-969a-1c8480e8fb91",
