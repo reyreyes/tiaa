@@ -1,33 +1,15 @@
 {
-  "images": {
-    "freeipa-images": [
-      {
-        "created": 0,
-        "date": "2025-03-04",
-        "description": "Official FreeIPA image",
-        "images": {
-          "aws": {
-            "us-west-2": "ami-0357effb8e02d43fc"
-          }
-        },
-        "os": "redhat8",
-        "os_type": "redhat8",
-        "uuid": "bdb32438-d616-4a8d-969a-1c8480e8fb91"
-      }
-    ]
-  },
-  "versions": {
-    "freeipa": [
-      {
-        "images": [
-          "bdb32438-d616-4a8d-969a-1c8480e8fb91"
-        ],
-        "defaults": [],
-        "versions": [
-          "2.93.0-b131",
-          "2.94.0-b132"
-        ]
-      }
-    ]
-  }
+    "catalogName": "tiaa-freeipa",
+    "description": "TIAA FreeIPA custom catalog",
+    "images": [
+        {
+            "imageId": "7cecb2a9-716b-4e43-9107-a35b1d1ef6de",
+            "imageDate": 1741149653630,
+            "imageType": "FREEIPA",
+            "sourceImageId": "bdb32438-d616-4a8d-969a-1c8480e8fb91",
+            "sourceImageDate": 1722384652,
+            "versions": {},
+            "provider": "AWS"
+        }
+    ]
 }
