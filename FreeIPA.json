@@ -67,8 +67,8 @@
 "us-west-2": "ami-0357effb8e02d43fc"
 }
 },
-"os": “redhat8“,
-"os_type": "redhat8”,
+"os": “redhat8",
+"os_type": "redhat8",
 "uuid": "bdb32438-d616-4a8d-969a-1c8480e8fb91",
 "package-versions": {
 "blackbox-exporter": "0.19.0",
