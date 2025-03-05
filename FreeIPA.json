@@ -31,7 +31,7 @@
 "us-east-1": "ami-0a8e2d7d34c44d339",
 "us-east-2": "ami-070beafaab3157b56",
 "us-west-1": "ami-0428ab0a12daa27e2",
-"us-west-2": "ami-0357effb8e02d43fc"
+"us-west-2": "ami-06503c608decfffb6"
 }
 },
 "os": "redhat8",
